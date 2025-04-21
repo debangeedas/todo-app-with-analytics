@@ -1,4 +1,4 @@
-# Windsurf React Todo App
+# React Todo App
 
 A modern, authenticated Todo List web application built with React, Vite, Firebase Authentication, Material-UI, Mixpanel, and PostHog analytics.
 
