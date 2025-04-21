@@ -19,7 +19,6 @@ A modern, authenticated Todo List web application built with React, Vite, Fireba
 ```bash
 # (from your workspace root)
 git clone <your-repo-url>
-cd windsurf-project
 ```
 
 ### 2. Install Dependencies
